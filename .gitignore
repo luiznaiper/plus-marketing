@@ -5,4 +5,9 @@
 *.Identifier
 *.attrs
 .ftpquota
+<<<<<<< HEAD
 .vscode
+=======
+.vscode/
+.DS_Store
+>>>>>>> de2fb52 (added price of landing and add google tag manager)
